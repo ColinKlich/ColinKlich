@@ -27,7 +27,7 @@ Feel free to explore, star ⭐, or contribute to my projects — innovation thri
 
 ## 🛠️ Featured Projects
 
-Explore my featured work on my website: [Projects - ColinKlich.com](https://colinklich.com/projects)
+Explore my featured work on my website: [Projects - ColinKlich.com](https://colinklich.com/project)
 
 _(Note: Some projects may be private due to security and compliance constraints.)_
 
