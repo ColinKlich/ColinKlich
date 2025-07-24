@@ -39,8 +39,6 @@ _(Note: Some projects may be private due to security and compliance constraints.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colinklich&layout=compact&theme=radical)  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=colinklich&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
 </div>
 
 ---
@@ -48,7 +46,7 @@ _(Note: Some projects may be private due to security and compliance constraints.
 ## 🌐 Find Me Online
 
 - 🖥️ **Website:** [colinklich.com](https://colinklich.com)
-- 💼 **LinkedIn:** [Colin on LinkedIn](https://linkedin.com/in/colinklich)
+- 💼 **LinkedIn:** [Colin on LinkedIn](https://linkedin.com/in/colin-klich)
 
 ---
 
