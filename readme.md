@@ -15,13 +15,14 @@
 
 ---
 
-🌟 **Key Highlights** 🌟  
-- 🛡️ **Security-Focused Engineer:** Designing tools to protect and empower.  
-- 🤖 **Automation Advocate:** Turning complexity into simplicity through code.  
-- 🧪 **Tool Creator:** Developing utilities that solve real-world problems.  
-- 🌍 **Open Source Contributor:** Sharing knowledge and collaborating with the community.  
+🌟 **Key Highlights** 🌟
 
-Feel free to explore, star ⭐, or contribute to my projects — innovation thrives on collaboration!
+- 🎓 New Graduate Software Engineer actively building real-world skills
+- 🛡️ Security Enthusiast: Experience in designing secure systems and automation workflows
+- 🤖 Automation Advocate: Simplifying complex processes through thoughtful automation
+- 🧪 Tool Developer: Creating utilities that enhance productivity and security
+- 🌍 Open Source Contributor: Engaging with the community to share knowledge and collaborate
+I welcome you to explore my repositories, star ⭐ projects that interest you, or contribute to open-source initiatives. Collaboration fosters innovation!
 
 ---
 
