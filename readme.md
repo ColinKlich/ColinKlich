@@ -5,11 +5,11 @@
 <div align="center">
   <h3>Hi, I’m Colin Klich!</h3>
   <p>
-    I’m a cybersecurity specialist and automation enthusiast who thrives on building tools that make systems smarter, safer, and more efficient. My work blends offensive and defensive security with practical automation to solve real-world challenges.
+I am a recent graduate software engineer passionate about cybersecurity, automation, and AI development. I enjoy building smart, secure, and efficient tools that address real-world challenges by blending my knowledge of security with automation techniques and AI-driven solutions.
   </p>
-
+  
   <p>
-    This GitHub is my creative lab — a space where I share open-source projects, scripts, and experiments that push the boundaries of what’s possible in security and automation. Whether it’s streamlining incident response or automating threat detection, I’m always building with purpose.
+  This GitHub is my creative lab — a space where I share open-source projects, scripts, and experiments that push the boundaries of what’s possible in security, automation, and artificial intelligence.
   </p>
 </div>
 
@@ -32,17 +32,6 @@ Explore my featured work on my website: [Projects - ColinKlich.com](https://coli
 
 _(Note: Some projects may be private due to security and compliance constraints.)_
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colinklich&layout=compact&theme=radical)  
-
-</div>
-
----
 
 ## 🌐 Find Me Online
 
@@ -52,5 +41,5 @@ _(Note: Some projects may be private due to security and compliance constraints.
 ---
 
 <div align="center">
-Thanks for stopping by! Stay curious, stay secure, and keep automating.  
+Thanks for stopping by! 
 </div>
